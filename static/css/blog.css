@@ -1,0 +1,17 @@
+h1 {
+    color: white;
+    font-family: "lobster";
+}
+
+h2 {
+    padding-top: 20px;
+    color: orange;
+}
+
+body {
+    padding: 20px;
+}
+
+.jumbotron {
+    background-color: orange;
+}
